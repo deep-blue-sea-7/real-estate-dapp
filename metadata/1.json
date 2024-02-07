@@ -1,0 +1,33 @@
+{
+    "name": "Lake House",
+    "address": "18 Bayberry Road, Springfield, VT 044122",
+    "description": "Beautiful sunlit house by lake Monad",
+    "image": "https://ipfs.io/ipfs/bafybeibaa4e2wsbamqqsvhfncalznqhyyyrirkry7zoigvbd546yky7ywq/lake-house.jpeg",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 120
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "House"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2400
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2015
+        }
+    ]
+}

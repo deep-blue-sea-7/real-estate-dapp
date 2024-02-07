@@ -1,0 +1,33 @@
+{
+    "name": "Architectural Modern Home",
+    "address": "88 Valley Verde Road, Washington",
+    "description": "Beautiful modern home in Washington state",
+    "image": "https://ipfs.io/ipfs/bafybeibaa4e2wsbamqqsvhfncalznqhyyyrirkry7zoigvbd546yky7ywq/modern-house.jpg",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 150
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3900
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2022
+        }
+    ]
+}

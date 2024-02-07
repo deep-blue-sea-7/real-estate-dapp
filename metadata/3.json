@@ -1,0 +1,33 @@
+{
+    "name": "Luxury Apartment in Vancouver",
+    "address": "11 Canada Place Avenue, Vancouver",
+    "description": "Peaceful Apartment in Vancouver Coal Harbor",
+    "image": "https://ipfs.io/ipfs/bafybeibaa4e2wsbamqqsvhfncalznqhyyyrirkry7zoigvbd546yky7ywq/luxury-aprtment.jpg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 110
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Condo"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1200
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        }
+    ]
+}
